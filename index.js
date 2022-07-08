@@ -36,7 +36,7 @@ function wrongURI(res) {
 function banner(res) {
   res.setHeader('Content-type', 'text/html');
   res.writeHead(200);
-  res.end('<h1>CORS PROXY SERVER</h1><p><a href="https://github.com/guwalgiya/reach-heroku">' +
+  res.end('<h1>CORS PROXY SERVER for MARTA REACH MONITOR</h1><p><a href="https://github.com/guwalgiya/reach-heroku">' +
     'https://github.com/guwalgiya/reach-heroku</a></p>');
 }
 
