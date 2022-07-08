@@ -1,0 +1,18 @@
+{
+  "name": "cors-proxy-server",
+  "version": "1.0.0",
+  "description": "CORS proxy server implemented by the spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guwalgiya/reach-heroku.git"
+  },
+  "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.72.0"
+  }
+}

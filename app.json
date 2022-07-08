@@ -1,0 +1,12 @@
+{
+  "name": "cors-proxy-server",
+  "description": "Built with CORS PROXY SPEC support.",
+  "website": "https://github.com/guwalgiya/reach-heroku",
+  "repository": "https://github.com/gualgiya/reach-heroku.git",
+  "keywords": [
+    "cors",
+    "proxy",
+    "server",
+    "heroku"
+  ]
+}
